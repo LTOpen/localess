@@ -31,12 +31,12 @@
       {
         "source": "/api/v1/**",
         "function": "publicv1",
-        "region": "europe-west6"
+        "region": "us-west2"
       },
       {
         "source": "/api/stripe/**",
         "function": "stripe-api",
-        "region": "europe-west6"
+        "region": "us-west2"
       },
       {
         "source": "**",

@@ -9,6 +9,14 @@
           "localess-dev"
         ]
       }
+    },
+    "localet-9aae0": {
+      "hosting": {
+        "locdepart": [
+          "ltcat"
+        ]
+      }
     }
-  }
+  },
+  "etags": {}
 }
